@@ -8,5 +8,8 @@ namespace Delegates
 {
     class Konten
     {
+       
+
+        
     }
 }
